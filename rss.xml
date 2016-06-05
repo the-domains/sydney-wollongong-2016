@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sydney Wollongong 2016]]></title>
         <description><![CDATA[Sydney Wollongong 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sydney-wollongong-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:35:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 12:35:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sydney-wollongong-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5abd4995-b2eb-495d-8a98-c4ed0a3337e5.jpg">]]></description>
+            <link>https://thegrid.ai/sydney-wollongong-2016/7aeb0d59-fc2b-49fc-9340-cde2629a0a9c/index.html</link>
+            <guid isPermaLink="false">7aeb0d59-fc2b-49fc-9340-cde2629a0a9c</guid>
+            <pubDate>Sun, 05 Jun 2016 09:24:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbffa013-b113-4993-b1de-589b06025f7e.jpg">]]></description>
-            <link>undefinede31e7e5e-9f64-47dc-901b-b50e3c6040a0/index.html</link>
+            <link>https://thegrid.ai/sydney-wollongong-2016/e31e7e5e-9f64-47dc-901b-b50e3c6040a0/index.html</link>
             <guid isPermaLink="false">e31e7e5e-9f64-47dc-901b-b50e3c6040a0</guid>
             <pubDate>Sun, 05 Jun 2016 09:22:47 GMT</pubDate>
         </item>
