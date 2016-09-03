@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Opera house
+    id: 7aeb0d59-fc2b-49fc-9340-cde2629a0a9c
+    type: content
 favicon: null
 title: Sydney
 description: May 2016
